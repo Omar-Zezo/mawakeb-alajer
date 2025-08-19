@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="425.16" height="140.4299" viewBox="0 0 425.16 140.4299">
+  <defs>
+    <style>
+      .uuid-86b0436b-3fcd-43a4-8358-c71845f7cb3b {
+        isolation: isolate;
+      }
+
+      .uuid-e1b7c327-54fa-4828-a074-dcecc28999e5 {
+        fill: #223c66;
+      }
+
+      .uuid-40681a13-bdbd-4c2c-ae8e-196ff94d360c {
+        mix-blend-mode: multiply;
+        opacity: .75;
+      }
+    </style>
+  </defs>
+  <g class="uuid-86b0436b-3fcd-43a4-8358-c71845f7cb3b">
+    <g id="uuid-e3e8af76-8297-47df-826c-bdb3a8a39374" data-name="Layer_2">
+      <g id="uuid-58549632-c4de-4c67-9687-ef137603015d" data-name="Layer_1">
+        <g class="uuid-40681a13-bdbd-4c2c-ae8e-196ff94d360c">
+          <path class="uuid-e1b7c327-54fa-4828-a074-dcecc28999e5" d="M425.16,0S173.52,97.95,0,56.9099v83.52h425.16V0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
